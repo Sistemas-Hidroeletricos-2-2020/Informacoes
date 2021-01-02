@@ -27,7 +27,9 @@ O aluno deverá fazer seguintes problemas:
 
 **Problema 2:** Reproduzir a simulação de rompimento de barragem do video no canal da disciplina no Microsoft Stream no ANSYS e determinar uma estimativa de volume útil do reservatório simulado.
 
-O aluno poderá encontrar no SIGAA um link do Dropbox com os arquivos ANSYS para as simulações de cada problema. Alternativamente, estes arquivos estão no repositório de informações.
+O aluno poderá encontrar os arquivos ANSYS para as simulações de cada problema no link abaixo (Disponibilizado também no portal da disciplina no SIGAA):
+
+https://www.dropbox.com/sh/h2u1br6wsg8v9t9/AAB0q7Fpjyi2CNectj8Sh7uoa?dl=0
 
 O relatório de ambos os projetos deve ser feito na organização indicada pelo professor no GitHub, onde o documento deve ser um readme em um repositório criado pelo aluno.
 
