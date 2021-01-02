@@ -29,4 +29,4 @@ O aluno deverá fazer seguintes problemas:
 
 O relatório de ambos os projetos deve ser feito na organização indicada pelo professor no GitHub, onde o documento deve ser um readme em um repositório criado pelo aluno.
 
-**O prazo final para entrega de todas as etapas do projeto é xx/05/2020!**
+**O prazo final para entrega de todas as etapas do projeto é 07/05/2020!**
