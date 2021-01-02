@@ -21,11 +21,13 @@ Para escrever as equações usando o formato do LateX use [este link](https://ww
 
 O aluno deverá fazer seguintes problemas:
 
-**Problema 2:** Reproduzir a simulação da turbobomba do video no canal da disciplina no Microsoft Stream no ANSYS e responder a seguinte pergunta:
+**Problema 1:** Reproduzir a simulação da turbobomba do video no canal da disciplina no Microsoft Stream no ANSYS e responder a seguinte pergunta:
 
 - O impelidor do caso simulado pode ser usado como turbina?
 
-**Problema 3:** Reproduzir a simulação de rompimento de barragem do video no canal da disciplina no Microsoft Stream no ANSYS e determinar uma estimativa de volume útil do reservatório simulado.
+**Problema 2:** Reproduzir a simulação de rompimento de barragem do video no canal da disciplina no Microsoft Stream no ANSYS e determinar uma estimativa de volume útil do reservatório simulado.
+
+O aluno poderá encontrar no SIGAA um link do Dropbox com os arquivos ANSYS para as simulações de cada problema. Alternativamente, estes arquivos estão no repositório de informações.
 
 O relatório de ambos os projetos deve ser feito na organização indicada pelo professor no GitHub, onde o documento deve ser um readme em um repositório criado pelo aluno.
 
