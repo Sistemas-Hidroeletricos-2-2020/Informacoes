@@ -1,7 +1,5 @@
 # Informacoes
 
-# Informacoes
-
 
 Este documento deve orientar a elaboração e execução de experimentos numéricos que visam atender requerimentos da disciplina de Sistemas Hidroelétricos. O objetivo é realizar a aplicação de instrumentos básicos de gestão de projetos para a elaboração, planejamento, preparação e execução de um projeto de Dinâmica dos Fluidos Computacional aplicado a Sistemas Hidroelétricos. 
 
